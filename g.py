@@ -8,7 +8,7 @@ import threading
 from telebot import types
 
 # Replace with your actual bot token
-API_TOKEN = "7335807512:AAFUW-Wz7Z2R7c2sexR49WT3QooZvJBXyB8"
+API_TOKEN = "6711471828:AAFUI6t5CjQFs-on_H65VQh8Kykh56lEsGE"
 ADMIN_ID = 5289532351
 
 bot = telebot.TeleBot(API_TOKEN)
